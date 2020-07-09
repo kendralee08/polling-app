@@ -1,0 +1,16 @@
+{
+  "name": "polling-app",
+  "version": "0.0.1",
+  "description": "Polling Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require esm"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^7.1.2",
+    "should": "^13.2.3"
+  }
+}
